@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Akdeniz Social](https://github.com/CemTitor/AkdenizSocial)
 
-- 🌱 I’m currently learning **Flutter, Dart, Clean Coding**
+- 🌱 I’m currently learning **Bloc Pattern, Clean Architecture, CI/CD**
 
 - 📫 How to reach me **cemyilmaz463@gmail.com**
 
