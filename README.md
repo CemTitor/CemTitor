@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cem</h1>
-<h3 align="center">A passionate Flutter developer from Turkey</h3>
+<h3 align="center">A passionate Mobile developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cemtitor&label=Profile%20views&color=0e75b6&style=flat" alt="cemtitor" /> </p>
 
 - 🔭 I’m currently working on [Todos_Bloc] (https://github.com/CemTitor/todos_bloc))
 
-- 🌱 I’m currently learning **Bloc Pattern, Clean Architecture, CI/CD**
+- 🌱 I’m currently learning **.NET, Bloc Pattern, Clean Architecture, CI/CD**
 
 - 📫 How to reach me **cemyilmaz463@gmail.com**
 
