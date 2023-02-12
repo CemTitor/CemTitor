@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cemyilmazzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cemyilmazzz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/cemyilmaz1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cemyilmaz1999" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/CemTitor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cemyilmaz1999" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
