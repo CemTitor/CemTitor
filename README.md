@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Todos_Bloc] (https://github.com/CemTitor/todos_bloc))
 
-- 🌱 I’m currently learning **.NET, Bloc Pattern, Clean Architecture, CI/CD**
+- 🌱 I’m currently learning **.NET Core, Bloc Pattern, Clean Architecture, CI/CD**
 
 - 📫 How to reach me **cemyilmaz463@gmail.com**
 
