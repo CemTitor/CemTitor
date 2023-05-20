@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cemtitor&label=Profile%20views&color=0e75b6&style=flat" alt="cemtitor" /> </p>
 
-- 🔭 I’m currently working on [Todos_Bloc] (https://github.com/CemTitor/todos_bloc))
-
-- 🌱 I’m currently learning **.NET Core, Bloc Pattern, Clean Architecture, CI/CD**
+- 🌱 I’m currently learning **.Swift, iOS Development, Clean Architecture**
 
 - 📫 How to reach me **cemyilmaz463@gmail.com**
 
